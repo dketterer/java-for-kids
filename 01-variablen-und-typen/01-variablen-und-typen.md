@@ -2,7 +2,7 @@
 
 Wieso Variablen?
 
-Manchmal müssen wir den selben Wert, zB eine Zahl an mehreren Stellen einsetzen. Dann wäre es ja super geschickt, wenn wir alle Zahlen auf einmal ändern könnten.
+Manchmal müssen wir den selben Wert, z.B. eine Zahl an mehreren Stellen einsetzen. Dann wäre es ja super geschickt, wenn wir alle Zahlen auf einmal ändern könnten.
 
 
 ```
@@ -84,7 +84,7 @@ class Variablen
 
 Vielleicht ist euch schon einmal aufgefallen, dass `String` groß geschrieben wird wenn ihr eine neue Textvariable macht.
 
-Das hat einen Grund: Strings sind anders. Strings sind keine einfachen Datentypen sonder **Objekte**. Das hat für euch zuerst einmal nur sehr wenige Auswirkungen.
+Das hat einen Grund: Strings sind anders. Strings sind keine einfachen Datentypen sondern **Objekte**. Das hat für euch zuerst einmal nur sehr wenige Auswirkungen.
 
 ```
 //Beispiele

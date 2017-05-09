@@ -5,7 +5,7 @@ Ihr findet in den jeweiligen Ordnern hier oberhalb die Themen. Klickt auf die Or
 Außerdem gibt es einen Ordner mit Lösungen.
 
 
-Das ist ein forlaufend gepflegtes Repository mit dem Material, dass ich für kleine Programmiereinheiten bei einer Jugend Forscht Gruppe in Süddeutschland verwende.
+Das ist ein forlaufend gepflegtes Repository mit dem Material, dass ich für kleine Lerneinheiten bei einer Jugendforscht Gruppe in Süddeutschland verwende.
 
 
 License: MIT
